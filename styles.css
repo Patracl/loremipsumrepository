@@ -1,0 +1,66 @@
+* {
+    font-family:fantasy;
+    background-color: F5F5F5;
+}
+
+h1 {
+    color: aqua;
+    text-align: center;
+}
+
+#header {
+    background-color: rgb(37, 37, 37);
+    padding: 5px;
+    border: 5px solid grey;
+    margin: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+    width: auto;
+    height: auto;
+    border: 1px solid rgb(90, 15, 159);
+}
+
+#content {
+    border: 5px double black;
+    background-color: aquamarine;
+    width: 100%;
+    padding: 0 auto;
+    box-sizing: border-box;
+    margin: 20px 5px 20px 5px;
+}
+
+b {
+    color: lightblue;
+}
+
+img {
+    width: 450px;
+    height: 225px;
+    margin: 1px 25px 1px 25px;
+    border: 1px solid black;
+}
+
+h3 {
+    color: brown;
+    text-align: center;
+    background-color:coral;
+    border-radius: 10px;
+    margin: 0px 500px 10px 500px;
+}
+
+#footer {
+    text-align: center;
+}
+
+#odstep {
+    border: 1000px solid white;
+}
+
+#charlie {
+    background-color: blueviolet;
+    
+}
